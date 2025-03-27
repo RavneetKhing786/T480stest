@@ -33,6 +33,9 @@ On branch slave
 nothing to commit, working tree clean
 root@khing-ThinkPad-T480s:/opt/lampp/htdocs/powertest# 
 
+
+we are test this one also.
+
     </h1>
 
 </body>
